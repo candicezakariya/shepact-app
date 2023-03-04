@@ -1,0 +1,17 @@
+$color-primary: #fffaf4;
+$color-secondary: #1a7bff;
+$color-pale: #d1ecf1;
+$color-mid: #f69572;
+$color-dark: #fe5e54;
+$color-black-transparent: rgba(0, 0, 0, 0.5);
+
+body {
+    margin: 0px;
+}
+
+.btn-brand {
+    background-color: $color-mid;
+    color: white;
+    border: 1px solid $color-mid;
+}
+

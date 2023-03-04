@@ -1,7 +1,11 @@
 body {
-    margin: 0px;
+  margin: 0px;
 }
 
-.bg-color {
-    background-color: #f69572;
+.btn-brand {
+  background-color: #f69572;
+  color: white;
+  border: 1px solid #fe5e54;
 }
+
+/*# sourceMappingURL=styles.css.map */
